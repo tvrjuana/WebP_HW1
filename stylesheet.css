@@ -1,0 +1,125 @@
+body{
+	background-color: #f8f8ff;
+}
+.header{
+	border-radius: 25px;
+	background: url("h.jpg") no-repeat;
+	background-size: cover;
+	height: 45%;
+	text-align: center;
+	font-family: "TW Cen MT";
+	font-size: 50px;
+	vertical-align: middle;
+}
+.nav{
+	overflow: hidden;
+	background-color: #f8f8ff;
+}
+
+.nav a{
+	float: left;
+	display: block;
+	color: #000000;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-family: "TW Cen MT";
+}
+
+.nav a:hover{
+	background-color: #6495ED;
+	color: white;
+}
+
+.me{
+	height: auto;
+	width: auto;
+	max-width: 400px;
+	max-height: 400px;
+	float: left;
+	padding: 50px
+}
+.me img{
+	width: 100%;
+	height: auto;
+	border-radius: 25px;
+	background-color: #fff;
+	padding: 10px; 
+}
+.description{
+	padding: 15px;
+	text-align: center;
+	font-family: "TW Cen MT";
+}
+
+.assignment caption{
+	font-family: "TW Cen MT";
+	font-size: 50px;
+	padding-top: 40px;
+}
+.assignment table, th, td{
+	border-collapse: collapse;
+	width: 45%;
+	font-family: "TW Cen MT";
+	text-align: center;
+}
+
+.assignment a{
+	text-decoration: none;
+}
+
+.assignment tr:nth-child(even){
+	background: #e6e6fa;
+}
+
+.assignment tr:nth-child(odd){
+	background: #fffaf0;
+}
+
+.assignment h3{
+	font-family: "TW Cen MT";
+	font-size: 40px;
+	width: 100%;
+}
+
+.assignment ul{
+	font-family: "TW Cen MT";
+	font-size: 25px;
+	float: left;
+	padding-right: 100px;
+}
+
+.assignment h4{
+	font-family: "TW Cen MT";
+	font-size: 40px;
+	width: 45%;
+}
+
+.assignment ol{
+	font-family: "TW Cen MT";
+	font-size: 25px;
+	float: left;
+}
+
+.nested h3{
+	float: left;
+	font-size: 40px;
+}
+
+.nested dl{
+	font-family: "TW Cen MT";
+	font-size: 25px;
+	float: left;
+}
+
+.quote h2{
+	margin: 5px;
+	padding: 60px;
+	font-family: "TW Cen MT";
+	font-size: 40px;
+}
+
+.quote p{
+	font-family: "TW Cen MT";
+	font-size: 25px;
+}
