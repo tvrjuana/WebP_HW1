@@ -1,2 +1,2 @@
-# WebP_HW1
-Web Programming - Homework 1, create a homepage
+# WebProgramming
+A repo containing assignments for web programming - Spring 2021.
